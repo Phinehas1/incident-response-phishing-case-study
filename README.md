@@ -20,7 +20,7 @@ A medium-severity phishing alert was generated after an employee received an ema
 <details>
 <summary>Screenshot of Phishing Email</summary>
 
-![Phishing Email Example](screenshots/phishing-email-example.png)
+![Phishing Email Example](screenshots/Phishing-email-example.png)
 
 </details>
 
