@@ -17,6 +17,13 @@ A medium-severity phishing alert was generated after an employee received an ema
 - **Status:** Escalated  
 
 ---
+<details>
+<summary>Screenshot of Phishing Email</summary>
+
+![Phishing Email Example](screenshots/phishing_email.png)
+
+</details>
+
 
 <details>
 <summary><strong>Detection</strong></summary>
