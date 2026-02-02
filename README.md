@@ -10,13 +10,6 @@ A medium-severity phishing alert was generated after an employee received an ema
 
 ---
 
-## SOC Ticket Details
-- **Ticket ID:** A-2703  
-- **Alert:** SERVER-MAIL Phishing attempt – possible malware delivery  
-- **Severity:** Medium  
-- **Status:** Escalated  
-
----
 <details>
 <summary>Screenshot of Phishing Email</summary>
 
@@ -24,6 +17,14 @@ A medium-severity phishing alert was generated after an employee received an ema
 
 </details>
 
+---
+## SOC Ticket Details
+- **Ticket ID:** A-2703  
+- **Alert:** SERVER-MAIL Phishing attempt – possible malware delivery  
+- **Severity:** Medium  
+- **Status:** Escalated  
+
+---
 
 <details>
 <summary><strong>Detection</strong></summary>
